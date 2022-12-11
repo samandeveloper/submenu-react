@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/submenu-react/static/css/main.9cd17f20.chunk.css",
+    "main.js": "/submenu-react/static/js/main.7503860c.chunk.js",
+    "main.js.map": "/submenu-react/static/js/main.7503860c.chunk.js.map",
+    "runtime-main.js": "/submenu-react/static/js/runtime-main.d7783609.js",
+    "runtime-main.js.map": "/submenu-react/static/js/runtime-main.d7783609.js.map",
+    "static/js/2.e1e77988.chunk.js": "/submenu-react/static/js/2.e1e77988.chunk.js",
+    "static/js/2.e1e77988.chunk.js.map": "/submenu-react/static/js/2.e1e77988.chunk.js.map",
+    "index.html": "/submenu-react/index.html",
+    "precache-manifest.eb739fb4d1fdae671d77fc9f61782e13.js": "/submenu-react/precache-manifest.eb739fb4d1fdae671d77fc9f61782e13.js",
+    "service-worker.js": "/submenu-react/service-worker.js",
+    "static/css/main.9cd17f20.chunk.css.map": "/submenu-react/static/css/main.9cd17f20.chunk.css.map",
+    "static/js/2.e1e77988.chunk.js.LICENSE.txt": "/submenu-react/static/js/2.e1e77988.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/submenu-react/static/media/hero.882a211a.svg",
+    "static/media/logo.svg": "/submenu-react/static/media/logo.86d618b5.svg",
+    "static/media/phone.svg": "/submenu-react/static/media/phone.e908706c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7783609.js",
+    "static/js/2.e1e77988.chunk.js",
+    "static/css/main.9cd17f20.chunk.css",
+    "static/js/main.7503860c.chunk.js"
+  ]
+}
